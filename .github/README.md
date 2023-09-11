@@ -8,7 +8,7 @@
   <img src="https://graph.org/file/832943cd19e1cbfef1091.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/Jasica_Musicbot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𓆩❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт𓆪](https://t.me/Jasica_Musicbot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
