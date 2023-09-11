@@ -1,4 +1,4 @@
-# MIT License
+r# MIT License
 #
 # Copyright (c) 2023 AnonymousX1025
 #
@@ -45,7 +45,7 @@ from FallenMusic.Modules import ALL_MODULES
 async def fallen_startup():
     LOGGER.info("[•] Loading Modules...")
     for module in ALL_MODULES:
-        importlib.import_module("FallenMusic.Modules." + module)
+        importlib.import_module("JasicaMusic.Modules." + module)
     LOGGER.info(f"[•] Loaded {len(ALL_MODULES)} Modules.")
 
     LOGGER.info("[•] Refreshing Directories...")
@@ -58,7 +58,7 @@ async def fallen_startup():
     try:
         await app.send_message(
             SUNAME,
-            f"✯ ғᴀʟʟᴇɴ ᴍᴜsɪᴄ ʙᴏᴛ ✯\n\n𖢵 ɪᴅ : `{BOT_ID}`\n𖢵 ɴᴀᴍᴇ : {BOT_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{BOT_USERNAME}",
+            f"✯ 𓆩❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт𓆪 ✯\n\n𖢵 ɪᴅ : `{BOT_ID}`\n𖢵 ɴᴀᴍᴇ : {BOT_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{BOT_USERNAME}",
         )
     except:
         LOGGER.error(
@@ -68,7 +68,7 @@ async def fallen_startup():
     try:
         await app2.send_message(
             SUNAME,
-            f"✯ ғᴀʟʟᴇɴ ᴍᴜsɪᴄ ᴀss ✯\n\n𖢵 ɪᴅ : `{ASS_ID}`\n𖢵 ɴᴀᴍᴇ : {ASS_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{ASS_USERNAME}",
+            f"✯ 𓆩❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт𓆪 ✯\n\n𖢵 ɪᴅ : `{ASS_ID}`\n𖢵 ɴᴀᴍᴇ : {ASS_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{ASS_USERNAME}",
         )
     except:
         LOGGER.error(
@@ -89,4 +89,4 @@ async def fallen_startup():
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(fallen_startup())
-    LOGGER.error("Fallen Music Bot Stopped.")
+    LOGGER.error(" 𓆩❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт𓆪 Stopped.")
